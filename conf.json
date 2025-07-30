@@ -2,86 +2,137 @@
     {
         "location": "Bedroon",
         "title": "Rain",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/001.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/001.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/001.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/001.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/001.mp4"
     },
     {
         "location": "Galaxy",
         "title": "Blackhole",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/002.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/002.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/002.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/002.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/002.mp4"
     },
     {
         "location": "Delorean",
         "title": "Rain",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/003.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/003.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/003.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/003.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/003.mp4"
     },
     {
         "location": "Formula1",
         "title": "Ferrari Car",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/004.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/004.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/004.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/004.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/004.mp4"
     },
     {
         "location": "Girl",
         "title": "With Book",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/005.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/005.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/005.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/005.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/005.mp4"
     },
     {
         "location": "GlassHouse",
         "title": "Rain",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/006.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/006.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/006.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/006.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/006.mp4"
     },
     {
         "location": "Goku",
         "title": "Ultra Instinct",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/007.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/007.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/007.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/007.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/007.mp4"
     },
     {
         "location": "Hydrangeas",
         "title": "Rain",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/008.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/008.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/008.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/008.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/008.mp4"
     },
     {
         "location": "ItachiUchiha",
         "title": "Flame",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/009.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/009.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/009.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/009.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/009.mp4"
     },
     {
         "location": "Japanese_Street",
         "title": "Spring",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/010.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/010.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/010.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/010.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/010.mp4"
     },
     {
         "location": "Pagoda",
         "title": "Spring",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/011.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/011.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/011.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/011.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/011.mp4"
     },
     {
         "location": "Pattern",
         "title": "Gold",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/012.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/012.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/012.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/012.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/012.mp4"
     },
     {
         "location": "Red-Astronaught",
         "title": "Sky",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/013.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/013.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/013.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/013.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/013.mp4"
     },
     {
         "location": "Water",
         "title": "Flow",
-        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/014.mp4"
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/014.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/014.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/014.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_cutom/media/014.mp4"
     },
     {
         "location": "Sasuke",
         "title": "Red Black",
-        "url_4k": "https://files.catbox.moe/v1uv19.mp4"
+        "url_1080p": "https://files.catbox.moe/v1uv19.mp4",
+        "url_1080p_hdr": "https://files.catbox.moe/v1uv19.mp4",
+        "url_4k": "https://files.catbox.moe/v1uv19.mp4",
+        "url_4k_hdr": "https://files.catbox.moe/v1uv19.mp4"
     },
     {
         "location": "Bedroom",
         "title": "Rain",
-        "url_4k": "https://pixeldrain.com/api/file/D9sof97Z"
+        "url_1080p": "https://pixeldrain.com/api/file/D9sof97Z",
+        "url_1080p_hdr": "https://pixeldrain.com/api/file/D9sof97Z",
+        "url_4k": "https://pixeldrain.com/api/file/D9sof97Z",
+        "url_4k_hdr": "https://pixeldrain.com/api/file/D9sof97Z"
     },
     {
         "location": "Clouds",
         "title": "Float",
-        "url_4k": "https://pixeldrain.com/api/file/a5Gxqpz2"
+        "url_1080p": "https://pixeldrain.com/api/file/a5Gxqpz2",
+        "url_1080p_hdr": "https://pixeldrain.com/api/file/a5Gxqpz2",
+        "url_4k": "https://pixeldrain.com/api/file/a5Gxqpz2",
+        "url_4k_hdr": "https://pixeldrain.com/api/file/a5Gxqpz2"
     }
 ]
