@@ -150,5 +150,21 @@
         "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/016.mp4",
         "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/016.mp4",
         "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/016.mp4"
+    },
+    {
+        "location": "Splash",
+        "title": "Colors",
+        "url_1080p": "https://pixeldrain.com/api/file/WkkXf3Bt",
+        "url_1080p_hdr": "https://pixeldrain.com/api/file/WkkXf3Bt",
+        "url_4k": "https://pixeldrain.com/api/file/WkkXf3Bt",
+        "url_4k_hdr": "https://pixeldrain.com/api/file/WkkXf3Bt"
+    },
+    {
+        "location": "DragonBall",
+        "title": "Vegeta",
+        "url_1080p": "https://pixeldrain.com/api/file/sDdpzS63",
+        "url_1080p_hdr": "https://pixeldrain.com/api/file/sDdpzS63",
+        "url_4k": "https://pixeldrain.com/api/file/sDdpzS63",
+        "url_4k_hdr": "https://pixeldrain.com/api/file/sDdpzS63"
     }
 ]
