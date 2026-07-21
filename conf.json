@@ -1,7 +1,7 @@
 [
     {
-        "location": "Tank",
-        "title": "Fish",
+        "location": "Home",
+        "title": "Fish Tank",
         "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/001.mp4",
         "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/001.mp4",
         "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/001.mp4",
@@ -198,5 +198,45 @@
         "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/020.mp4",
         "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/020.mp4",
         "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/020.mp4"
+    },
+    {
+        "location": "Rain",
+        "title": "Glass",
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/021.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/021.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/021.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/021.mp4"
+    },
+    {
+        "location": "Pattern",
+        "title": "Blue",
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/023.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/023.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/023.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/023.mp4"
+    },
+    {
+        "location": "Forest",
+        "title": "Home",
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/024.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/024.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/024.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/024.mp4"
+    },
+    {
+        "location": "Azure",
+        "title": "Horizon",
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/025.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/025.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/025.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/025.mp4"
+    },
+    {
+        "location": "Rain",
+        "title": "Last of us",
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/026.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/026.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/026.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/026.mp4"
     }
 ]
