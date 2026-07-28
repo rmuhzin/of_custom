@@ -238,5 +238,13 @@
         "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/026.mp4",
         "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/026.mp4",
         "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/026.mp4"
+    },
+    {
+        "location": "Fuel Station",
+        "title": "Car",
+        "url_1080p": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/027.mp4",
+        "url_1080p_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/027.mp4",
+        "url_4k": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/027.mp4",
+        "url_4k_hdr": "https://raw.githubusercontent.com/rmuhzin/of_custom/main/media/027.mp4"
     }
 ]
